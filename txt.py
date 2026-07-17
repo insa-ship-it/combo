@@ -4,13 +4,13 @@ from datetime import datetime
 # ===== CONFIGURATION =====
 # Add your list of TXT file URLs here
 TXT_FILES = [
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9B%F0%9D%90%A8-User_Pass.txt",
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/ghostattack.txt",
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/fire10_userpas.txt", 
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/comboattack.txt", 
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/combo2026-3.txt", 
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/combo2026-2.txt", 
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/combo2026-1.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/blackpaws-combos.txt",
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/Mr%20Mike%20300k.txt",
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/Merged%20Hits.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/2026Combos.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/COMBO%20IPTV%20EXPLOIT%20MIX%20IPTV%20%203.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/COMBO%20IPTV%20EXPLOIT%20MIX%20IPTV%20.txt", 
+    "", 
     "", 
     "", 
     "", 
