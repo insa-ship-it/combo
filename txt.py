@@ -4,12 +4,12 @@ from datetime import datetime
 # ===== CONFIGURATION =====
 # Add your list of TXT file URLs here
 TXT_FILES = [
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/%F0%9D%97%96%E1%B4%8F%E1%B4%8D%CA%99%E1%B4%8F%F0%9D%97%94%E1%B4%9B%E1%B4%9B%E1%B4%80%E1%B4%84%E1%B4%8B%E1%B5%A5%E2%82%83.txt",
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/%F0%9D%97%96%E1%B4%8F%E1%B4%8D%CA%99%E1%B4%8F%F0%9D%97%94%E1%B4%9B%E1%B4%9B%E1%B4%80%E1%B4%84%E1%B4%8B%E1%B5%A5%E2%81%B4.txt",
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/%F0%9D%97%96%E1%B4%8F%E1%B4%8D%CA%99%E1%B4%8F%F0%9D%97%94%E1%B4%9B%E1%B4%9B%E1%B4%80%E1%B4%84%E1%B4%8B%E1%B5%A5%E2%81%B5.txt", 
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/%F0%9D%97%96%E1%B4%8F%E1%B4%8D%CA%99%E1%B4%8F%F0%9D%97%94%E1%B4%9B%E1%B4%9B%E1%B4%80%E1%B4%84%E1%B4%8B%E1%B5%A5%E2%81%B6.txt", 
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/%F0%9D%97%96%E1%B4%8F%E1%B4%8D%CA%99%E1%B4%8F%F0%9D%97%94%E1%B4%9B%E1%B4%9B%E1%B4%80%E1%B4%84%E1%B4%8B%E1%B5%A5%E2%81%B7.txt", 
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/%F0%9D%97%96%E1%B4%8F%E1%B4%8D%CA%99%E1%B4%8F%F0%9D%97%94%E1%B4%9B%E1%B4%9B%E1%B4%80%E1%B4%84%E1%B4%8B%E1%B5%A5%E2%81%B8.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/%F0%9D%97%9A%CA%9C%E1%B4%8Fs%E1%B4%9B%F0%9D%97%94%E1%B4%9B%E1%B4%9B%E1%B4%80%E1%B4%84%E1%B4%8B%E1%B5%A5%C2%B1.txt",
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/%F0%9D%97%9A%CA%9C%E1%B4%8Fs%E1%B4%9B%F0%9D%97%94%E1%B4%9B%E1%B4%9B%E1%B4%80%E1%B4%84%E1%B4%8B%E1%B5%A5%C2%B2.txt",
+    "", 
+    "", 
+    "", 
+    "", 
 ]
 
 # Output file
