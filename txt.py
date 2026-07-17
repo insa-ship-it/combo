@@ -4,8 +4,21 @@ from datetime import datetime
 # ===== CONFIGURATION =====
 # Add your list of TXT file URLs here
 TXT_FILES = [
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/%F0%9D%97%9A%CA%9C%E1%B4%8Fs%E1%B4%9B%F0%9D%97%94%E1%B4%9B%E1%B4%9B%E1%B4%80%E1%B4%84%E1%B4%8B%E1%B5%A5%C2%B1.txt",
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/%F0%9D%97%9A%CA%9C%E1%B4%8Fs%E1%B4%9B%F0%9D%97%94%E1%B4%9B%E1%B4%9B%E1%B4%80%E1%B4%84%E1%B4%8B%E1%B5%A5%C2%B2.txt",
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/www.eporner.com.streamtv.to_8080_.txt",
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/wickediptv.xyz_80.txt",
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/vt57.ofztvxv.top_8080.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/vooezao.top_8080_panel.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/vipapyenhmw.top_8080.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/user.scalecdn.co_8080.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/tv.startseven.tn_2052.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/tivim24.de_8000.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/tectonbrand.com_.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/storetvip.shop_8080.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/starlatino.tv_8880.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/smartvnow.xyz_25461.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/skynetdigital.us_80.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/sitemap.dinofox.sbs_80_.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/s.rocketdns.info_8080.txt", 
     "", 
     "", 
     "", 
