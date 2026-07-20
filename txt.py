@@ -4,12 +4,13 @@ from datetime import datetime
 # ===== CONFIGURATION =====
 # Add your list of TXT file URLs here
 TXT_FILES = [
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/blackpaws-combos.txt",
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/Mr%20Mike%20300k.txt",
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/Merged%20Hits.txt", 
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/2026Combos.txt", 
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/COMBO%20IPTV%20EXPLOIT%20MIX%20IPTV%20%203.txt", 
-    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/COMBO%20IPTV%20EXPLOIT%20MIX%20IPTV%20.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/religion.txt", 
+    "https://github.com/insa-ship-it/combo/raw/refs/heads/main/text/Religion-test.txt",
+    "",
+    "", 
+    "", 
+    "", 
+    "", 
     "", 
     "", 
     "", 
